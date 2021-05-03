@@ -56,4 +56,4 @@ Check the doc for crontab: https://help.ubuntu.com/community/CronHowto
 
 ## If you feel like giving me money :)
 
-You can send me any token on ETH or BSC to the following address: 0x6393F201F92d543302CAAe427e89beDc3754368F
+You can send me any token on ETH or BSC to the following address: 0xA82c19063657570e42a0531bfcB9cE693bb6263D
