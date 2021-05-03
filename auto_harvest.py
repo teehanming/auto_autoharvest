@@ -21,7 +21,7 @@ WRAP_BNB_TOKEN_CONTRACT = "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
 
 AUTO_FARM_INFO_URL = 'https://api.autofarm.network/bsc/get_farms_data'
 PANCAKE_PRICE_URL = "https://api.pancakeswap.info/api/tokens"
-PANCAKE_ASSUMED_SLIPPAGE = Decimal(0.5 / 100)
+PANCAKE_ASSUMED_SLIPPAGE = Decimal(0.2 / 100)
 AUTO_WBNB_POOL_ID = 6
 
 
